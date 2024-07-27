@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum de César Augusto Mora Vielma</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto 20px;
+            border: 5px solid #ddd;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            text-align: center;
+            font-weight: normal;
+            color: #555;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .section-title {
+            font-size: 1.5em;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            color: #333;
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        p, li {
+            font-size: 1em;
+            line-height: 1.6;
+            color: #666;
+            margin: 0 0 10px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="2.jpg" alt="Foto de César Augusto Mora Vielma" class="profile-pic">
+        <h1>César Augusto Mora Vielma</h1>
+
+        <div class="section">
+            <div class="section-title">Datos Personales</div>
+            <p><strong>Nombres:</strong> César Augusto</p>
+            <p><strong>Apellidos:</strong> Mora Vielma</p>
+            <p><strong>Cédula de Identidad:</strong> V-29.910.257</p>
+            <p><strong>Fecha de nacimiento:</strong> 04 de Julio 2003</p>
+            <p><strong>Nacionalidad:</strong> Venezolano</p>
+            <p><strong>Lugar de Nacimiento:</strong> Ciudad Guayana</p>
+            <p><strong>Edad:</strong> 20 años</p>
+            <p><strong>Estado Civil:</strong> Soltero</p>
+            <p><strong>Grupo Sanguíneo:</strong> O Rh (+)</p>
+            <p><strong>Residencia:</strong> Escuque, Sector El Samán, Calle India Ikake</p>
+            <p><strong>Teléfono:</strong> 0412 1223299</p>
+            <p><strong>Email:</strong> cesarmoragg17@gmail.com</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Formación Académica</div>
+            <p><strong>Escuela Básica Fe y Alegría “Virgen Niña”:</strong> 6to. Grado de Educación Primaria – Julio 2015</p>
+            <p><strong>Ciclo Diversificado “Ignacio Carrasquero Cabello”:</strong> Bachiller en Ciencias – Julio 2020</p>
+            <p><strong>Universidad Valle de Momboy:</strong> VIII Trimestre Ing. Industrial (Activo – Virtual)</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Cursos Realizados</div>
+            <ul>
+                <li>Curso Inglés, PICCADILLY ENGLISH CENTER, Barquisimeto, Edo. Lara. Duración: 90 horas. Año: 2018.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Experiencia Laboral</div>
+            <ul>
+                <li>2019-2021: Inversiones San Martin, Escuque, edo. Trujillo, Cargo: Atención al cliente, vendedor.</li>
+                <li>2021-2023: Comercializadora M&V, C.A. Escuque, edo. Trujillo, Cargo: Atención al cliente, vendedor.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Otras Habilidades</div>
+            <ul>
+                <li>Sistemas Operativos</li>
+                <li>MS Office</li>
+                <li>Microsoft Word</li>
+                <li>Microsoft Excel</li>
+                <li>Microsoft Power Point</li>
+                <li>Canva</li>
+                <li>Open Office</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Idiomas</div>
+            <ul>
+                <li>Español: Nativo</li>
+                <li>Inglés: Intermedio</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Habilidades Laborales</div>
+            <ul>
+                <li>Buena atención al cliente</li>
+                <li>Responsabilidad</li>
+                <li>Proactivo</li>
+                <li>Trabajo en equipo</li>
+                <li>Tolerancia al público</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
